@@ -1,5 +1,5 @@
 # Registro Studenti (Python)
-Questo progetto è un registro studenti realizzato in Python.  
+Progetto realizzato durante il corso **Data management con python** 
 Permette di gestire una classe, registrare voti, calcolare medie e salvare/caricare dati da file senza interfaccia grafica.
 
 ## Funzionalità
